@@ -1,1 +1,4 @@
-# CustomerLoanClassificationModelingProject
+# 고객 대충등급 분류 모델링 프로젝트
+
+- 프로그래머스 데이터분석 1기 3차 프로젝트로 진행한 고객 대출등급 분류 모델링
+- EDA, 데이터 전처리, 피처 엔지니어링과 모델 학습 및 성능 평가
